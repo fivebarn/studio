@@ -16,7 +16,7 @@ Each skill is a single `SKILL.md` file you can read in a couple of minutes befor
 | Travel & going out | [flight-delay-helper](skills/flight-delay-helper/SKILL.md) | Watches your flights, rebooks when things go wrong, fixes the rest of the trip, and files claims |
 | | [trip-planner](skills/trip-planner/SKILL.md) | Day-by-day itinerary, booking checklist, budget, and packing list |
 | | [saved-posts-organizer](skills/saved-posts-organizer/SKILL.md) | Turns saved posts into lists, a spreadsheet, and a map, then books, plans, or shops from them |
-| | [reservation-booker](skills/reservation-booker/SKILL.md) | Finds dinner reservations or movie seats and stops before confirming |
+| | [reservation-booker](skills/reservation-booker/SKILL.md) | Books dinner or movie seats on approval, watches sold-out times, and handles the follow-up |
 | Briefing & scheduling | [morning-briefing](skills/morning-briefing/SKILL.md) | A 5-line daily brief: schedule, weather, key emails, commute, birthdays, news (text or audio) |
 | | [calendar-guard](skills/calendar-guard/SKILL.md) | Flags conflicts, missing travel time, and overloaded days, with fixes |
 | Goals & projects | [goal-to-tasks](skills/goal-to-tasks/SKILL.md) | Breaks a goal into tasks and works through the ones Claude can do |
