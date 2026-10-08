@@ -56,6 +56,16 @@ cp -r skills/inbox-triage ~/.claude/skills/
 cp -r skills/inbox-triage .claude/skills/
 ```
 
+### Muse (Meta's personal agent)
+Download this repo, then copy any skill folder into your workspace skills directory:
+
+```bash
+git clone https://github.com/fivebarn/studio
+cp -r studio/skills/inbox-triage ~/workspace/skills/
+```
+
+Or ask your Muse agent: "install the inbox-triage skill from fivebarn/studio into my workspace skills." It will be discoverable immediately.
+
 ### Connections
 Most skills work best with the matching connections turned on in Claude (email, calendar, a browser, a fitness app). Without them, each skill falls back to working from text, screenshots, or files you paste in.
 
