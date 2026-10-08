@@ -7,6 +7,12 @@ description: Build a running or fitness training plan toward a goal like a 5K, h
 
 Build a plan that fits the user's life and adjust it based on how training is actually going.
 
+## Ground rules
+- This is general fitness guidance, not medical advice. Suggest checking with a doctor before starting if the user is new to exercise, returning from injury, pregnant, or has a health condition.
+- Stop and suggest professional help for sharp pain, chest pain, dizziness, or an injury that isn't improving.
+- Increase load gradually and include rest days. Don't push through pain.
+- Don't give calorie targets or weight-loss plans. Keep the focus on training, recovery, and how the user feels.
+
 ## Steps
 1. **Ask only what's missing:** goal and race date, current weekly activity (or recent workouts), longest recent run or session, days per week available, injuries, and any time limits.
 2. **Pull recent data** from a connected fitness app if available (last 4–8 weeks: distance, time, pace, heart rate, frequency). Otherwise use what the user tells you.
