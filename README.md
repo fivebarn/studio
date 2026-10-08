@@ -2,7 +2,7 @@
 
 Small, readable [Claude](https://claude.ai) skills for everyday life admin — inbox, shopping, travel, scheduling, goals, and creator/small-business work.
 
-Each skill is a single `SKILL.md` file you can read in a couple of minutes before installing. **Created with Claude.**
+Each skill is a single `SKILL.md` file you can read in a couple of minutes before installing.
 
 ## Skills
 
