@@ -17,7 +17,7 @@ Each skill is a single `SKILL.md` file you can read in a couple of minutes befor
 | | [trip-planner](skills/trip-planner/SKILL.md) | Day-by-day itinerary, booking checklist, budget, and packing list |
 | | [saved-posts-organizer](skills/saved-posts-organizer/SKILL.md) | Turns saved posts and screenshots into restaurant, travel, and recipe lists |
 | | [reservation-booker](skills/reservation-booker/SKILL.md) | Finds dinner reservations or movie seats and stops before confirming |
-| Briefing & scheduling | [morning-briefing](skills/morning-briefing/SKILL.md) | Today's calendar, weather, tasks, key emails, and deliveries (text or audio script) |
+| Briefing & scheduling | [morning-briefing](skills/morning-briefing/SKILL.md) | A 5-line daily brief: schedule, weather, key emails, commute, birthdays, news (text or audio) |
 | | [calendar-guard](skills/calendar-guard/SKILL.md) | Flags conflicts, missing travel time, and overloaded days, with fixes |
 | Goals & projects | [goal-to-tasks](skills/goal-to-tasks/SKILL.md) | Breaks a goal into tasks and works through the ones Claude can do |
 | | [training-plan](skills/training-plan/SKILL.md) | Race training plans that adjust to your recent workouts |
