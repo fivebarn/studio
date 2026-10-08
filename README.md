@@ -20,7 +20,7 @@ Each skill is a single `SKILL.md` file you can read in a couple of minutes befor
 | Briefing & scheduling | [morning-briefing](skills/morning-briefing/SKILL.md) | A 5-line daily brief: schedule, weather, key emails, commute, birthdays, news (text or audio) |
 | | [calendar-guard](skills/calendar-guard/SKILL.md) | A weekly look-ahead that fixes conflicts, adds travel time, and protects focus and family time |
 | Goals & projects | [goal-to-tasks](skills/goal-to-tasks/SKILL.md) | Breaks a goal into tasks, routes them to the right skill, and checks in until it is done |
-| | [training-plan](skills/training-plan/SKILL.md) | Race training plans that adjust to your recent workouts |
+| | [training-plan](skills/training-plan/SKILL.md) | Race training plans from your fitness data, on your calendar, adjusted every week |
 | | [folder-tidy](skills/folder-tidy/SKILL.md) | Organizes a messy folder like Downloads, never deleting anything |
 | Creator & business | [brand-deal-tracker](skills/brand-deal-tracker/SKILL.md) | Tracks brand inquiries, deliverables, rates, and deadlines |
 | | [hiring-assistant](skills/hiring-assistant/SKILL.md) | Job posts, fair screening against set criteria, candidate emails |
