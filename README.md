@@ -19,7 +19,7 @@ Each skill is a single `SKILL.md` file you can read in a couple of minutes befor
 | | [reservation-booker](skills/reservation-booker/SKILL.md) | Books dinner or movie seats on approval, watches sold-out times, and handles the follow-up |
 | Briefing & scheduling | [morning-briefing](skills/morning-briefing/SKILL.md) | A 5-line daily brief: schedule, weather, key emails, commute, birthdays, news (text or audio) |
 | | [calendar-guard](skills/calendar-guard/SKILL.md) | A weekly look-ahead that fixes conflicts, adds travel time, and protects focus and family time |
-| Goals & projects | [goal-to-tasks](skills/goal-to-tasks/SKILL.md) | Breaks a goal into tasks and works through the ones Claude can do |
+| Goals & projects | [goal-to-tasks](skills/goal-to-tasks/SKILL.md) | Breaks a goal into tasks, routes them to the right skill, and checks in until it is done |
 | | [training-plan](skills/training-plan/SKILL.md) | Race training plans that adjust to your recent workouts |
 | | [folder-tidy](skills/folder-tidy/SKILL.md) | Organizes a messy folder like Downloads, never deleting anything |
 | Creator & business | [brand-deal-tracker](skills/brand-deal-tracker/SKILL.md) | Tracks brand inquiries, deliverables, rates, and deadlines |
