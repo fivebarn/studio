@@ -56,6 +56,17 @@ cp -r skills/inbox-triage ~/.claude/skills/
 cp -r skills/inbox-triage .claude/skills/
 ```
 
+### Any agent, with the skills CLI
+Works with Claude Code, Codex, Cursor, and many other agents via [skills.sh](https://skills.sh):
+
+```bash
+# pick from the list
+npx skills add fivebarn/studio
+
+# or install one skill directly
+npx skills add fivebarn/studio --skill inbox-triage
+```
+
 ### Muse (Meta's personal agent)
 Download this repo, then copy any skill folder into your workspace skills directory:
 
