@@ -13,7 +13,7 @@ Each skill is a single `SKILL.md` file you can read in a couple of minutes befor
 | Shopping & money | [cart-builder](skills/cart-builder/SKILL.md) | Turns a list, photo, recipes, or past order into the best-priced cart, stopping before checkout |
 | | [subscription-saver](skills/subscription-saver/SKILL.md) | Finds every recurring charge, hunts for better deals, and cancels on approval |
 | | [price-drop-tracker](skills/price-drop-tracker/SKILL.md) | Catches price drops, return deadlines, and refunds still owed |
-| Travel & going out | [flight-delay-helper](skills/flight-delay-helper/SKILL.md) | Rebooking options and what the airline owes you when a flight goes wrong |
+| Travel & going out | [flight-delay-helper](skills/flight-delay-helper/SKILL.md) | Watches your flights, rebooks when things go wrong, fixes the rest of the trip, and files claims |
 | | [trip-planner](skills/trip-planner/SKILL.md) | Day-by-day itinerary, booking checklist, budget, and packing list |
 | | [saved-posts-organizer](skills/saved-posts-organizer/SKILL.md) | Turns saved posts and screenshots into restaurant, travel, and recipe lists |
 | | [reservation-booker](skills/reservation-booker/SKILL.md) | Finds dinner reservations or movie seats and stops before confirming |
