@@ -7,6 +7,10 @@ description: Plan a trip from dates, budget, and interests into a day-by-day iti
 
 Build a realistic trip plan the user can follow and book from.
 
+## Ground rules
+- Never book, reserve, or pay for anything without an explicit yes for that specific booking.
+- Never enter passwords, payment details, or passport numbers.
+
 ## Steps
 1. **Ask only what's missing:** destination (or "help me choose"), dates, who's going (kids, mobility needs), budget, pace (packed or relaxed), interests, and any must-dos.
 2. **Check the basics:** weather for those dates, local holidays or closures, and entry requirements if crossing a border.
