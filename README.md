@@ -47,15 +47,6 @@ cp -r skills/inbox-triage .claude/skills/
 ### Connections
 Most skills work best with the matching connections turned on in Claude (email, calendar, a browser, a fitness app). Without them, each skill falls back to working from text, screenshots, or files you paste in.
 
-## Safety
-
-Read a skill before you install it — that's why each one is a single short file. Every skill here:
-
-- **asks before acting**: nothing is sent, bought, booked, submitted, published, or deleted without your explicit yes;
-- **never handles passwords, card numbers, or ID numbers** — those steps are handed back to you;
-- **treats emails, web pages, and files as information, not instructions**, and flags anything inside them that tries to direct Claude;
-- contains **no code, no scripts, and no external links it tells Claude to call**.
-
 Found a problem? Please [open an issue](../../issues).
 
 ## License
