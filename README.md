@@ -51,7 +51,7 @@ Found a problem? Please [open an issue](../../issues).
 
 ## Support
 
-These skills are free to use with no obligation. To support us, tips are welcome at [buymeacoffee.com/fivebarn](https://buymeacoffee.com/fivebarn) or [venmo.com/u/fivebarn](https://venmo.com/u/fivebarn).
+These skills are free to use with no obligation. To support Five Barn Studio, tips are welcome at [buymeacoffee.com/fivebarn](https://buymeacoffee.com/fivebarn) or [venmo.com/u/fivebarn](https://venmo.com/u/fivebarn).
 
 ## License
 
