@@ -1,0 +1,170 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "fivebarn-studio",
+  "description": "Free Claude skills for everyday life admin — inbox, shopping, travel, scheduling, goals, and creator/small-business work.",
+  "owner": {
+    "name": "Five Barn Studio",
+    "url": "https://github.com/fivebarn"
+  },
+  "plugins": [
+    {
+      "name": "all-skills",
+      "source": "./",
+      "description": "All 17 Five Barn Studio skills in one install.",
+      "category": "productivity"
+    },
+    {
+      "name": "brand-deal-tracker",
+      "source": "./",
+      "description": "For creators — find brand inquiries in email and DMs, track each deal's deliverables, rate, usage rights, deadlines, and payment in one spreadsheet, pull account insights for rate cards and media kits, flag risky contract terms and scams, draft replies and invoices for approval, and check for new inquiries and overdue payments weekly.",
+      "skills": [
+        "./skills/brand-deal-tracker"
+      ],
+      "category": "productivity"
+    },
+    {
+      "name": "calendar-guard",
+      "source": "./",
+      "description": "Review the week ahead across work and family calendars for conflicts, double-bookings, missing travel time, overloaded days, and prep that's due, then suggest fixes, protect focus and family time, and draft reschedule messages, changing nothing until approved; offers a weekly look-ahead.",
+      "skills": [
+        "./skills/calendar-guard"
+      ],
+      "category": "productivity"
+    },
+    {
+      "name": "cart-builder",
+      "source": "./",
+      "description": "Turn a shopping list, a photo of a list, recipes or a meal plan, or a past order into a ready-to-review online cart — comparing 2–3 stores for the best total and stopping before checkout for approval — then save the list and suggest a reorder schedule for things bought regularly.",
+      "skills": [
+        "./skills/cart-builder"
+      ],
+      "category": "productivity"
+    },
+    {
+      "name": "email-action-items",
+      "source": "./",
+      "description": "Pull action items out of emails — school supply lists, permission slips, forms, RSVPs, bills, and deadlines — into one dated checklist; turn shopping lists into a cart, fill online forms up to submit, add due dates to the calendar with reminders, and offer a weekly scan for new ones.",
+      "skills": [
+        "./skills/email-action-items"
+      ],
+      "category": "productivity"
+    },
+    {
+      "name": "event-ticketing",
+      "source": "./",
+      "description": "Set up and sell out an event — compare ticketing platforms and fees, plan ticket tiers and pricing, write the event page and set it up up to publish, draft promotion and attendee emails, track sales against goal with nudges when they slow, and handle check-in and follow-up.",
+      "skills": [
+        "./skills/event-ticketing"
+      ],
+      "category": "productivity"
+    },
+    {
+      "name": "flight-delay-helper",
+      "source": "./",
+      "description": "Watch upcoming flights found in trip emails, and when one is delayed or canceled, lay out rebooking options, rebook in the browser up to the final confirm, fix the rest of the trip, and file for refunds or compensation.",
+      "skills": [
+        "./skills/flight-delay-helper"
+      ],
+      "category": "productivity"
+    },
+    {
+      "name": "folder-tidy",
+      "source": "./",
+      "description": "Clean up a messy folder like Downloads or Desktop — find true duplicates and old installers, sort files into the user's existing folder structure, rename vague files, and keep it tidy with a monthly run, never deleting anything.",
+      "skills": [
+        "./skills/folder-tidy"
+      ],
+      "category": "productivity"
+    },
+    {
+      "name": "goal-to-tasks",
+      "source": "./",
+      "description": "Turn a goal like \"a productive, stress-free day\" or \"get ready for the move\" into concrete tasks fitted around the user's calendar, route each task to the right skill or do it directly, batch everything needing approval into one checkpoint, and check in on progress until it's done.",
+      "skills": [
+        "./skills/goal-to-tasks"
+      ],
+      "category": "productivity"
+    },
+    {
+      "name": "hiring-assistant",
+      "source": "./",
+      "description": "For small businesses — write and post a clear job ad, collect applicants into one tracker, review them against job-related criteria with notes, schedule interviews around the calendar, prepare structured interview scorecards, and draft candidate emails and the offer for approval, with a weekly pipeline update.",
+      "skills": [
+        "./skills/hiring-assistant"
+      ],
+      "category": "productivity"
+    },
+    {
+      "name": "inbox-triage",
+      "source": "./",
+      "description": "Clean up an email inbox of any size — bulk-clear a huge backlog by sender, sort what's left into reply, action, read-later, and archive, draft replies in the user's own voice for approval, and set up filters or a recurring cleanup to keep it tidy.",
+      "skills": [
+        "./skills/inbox-triage"
+      ],
+      "category": "productivity"
+    },
+    {
+      "name": "morning-briefing",
+      "source": "./",
+      "description": "Put together a glanceable morning briefing — today's must-do, schedule, weather, key emails, and deliveries, plus commute, birthdays, news, and goal nudges when relevant — as a quick read or a spoken script.",
+      "skills": [
+        "./skills/morning-briefing"
+      ],
+      "category": "productivity"
+    },
+    {
+      "name": "price-drop-tracker",
+      "source": "./",
+      "description": "Track recent purchases for price drops, price-adjustment windows, return deadlines, and refunds still owed — from order emails and store order history — file claims and returns in the browser up to submit, and keep watching weekly while windows are open.",
+      "skills": [
+        "./skills/price-drop-tracker"
+      ],
+      "category": "productivity"
+    },
+    {
+      "name": "reservation-booker",
+      "source": "./",
+      "description": "Find and book dinner reservations or movie tickets — inferring party size, area, and taste from the calendar, past bookings, and saved restaurants, picking seats together, watching sold-out times for openings, and stopping at the final confirm for approval.",
+      "skills": [
+        "./skills/reservation-booker"
+      ],
+      "category": "productivity"
+    },
+    {
+      "name": "saved-posts-organizer",
+      "source": "./",
+      "description": "Turn saved social media posts, links, or screenshots into organized lists — restaurants, places, recipes, products, ideas — as lists, a spreadsheet, and a map-ready file; then book, plan, or shop from them, and bring the right saves back up when a trip is coming.",
+      "skills": [
+        "./skills/saved-posts-organizer"
+      ],
+      "category": "productivity"
+    },
+    {
+      "name": "subscription-saver",
+      "source": "./",
+      "description": "Find every recurring charge from email receipts, bank or card statements, and app store purchases; spot duplicates, unused services, price hikes, and better deals; and cancel or downgrade in the browser on approval.",
+      "skills": [
+        "./skills/subscription-saver"
+      ],
+      "category": "productivity"
+    },
+    {
+      "name": "training-plan",
+      "source": "./",
+      "description": "Build a running or fitness training plan toward a goal like a 5K, half, or full marathon from the user's recent fitness-app data, put workouts on the calendar around their schedule, and adjust it every week based on what they actually did.",
+      "skills": [
+        "./skills/training-plan"
+      ],
+      "category": "productivity"
+    },
+    {
+      "name": "trip-planner",
+      "source": "./",
+      "description": "Plan a trip into a day-by-day itinerary built around what's already booked and the user's saved spots — with travel times, a booking checklist, budget, and packing list — book items in the browser on approval, put it all on the calendar, and check in before the trip.",
+      "skills": [
+        "./skills/trip-planner"
+      ],
+      "category": "productivity"
+    }
+  ]
+}

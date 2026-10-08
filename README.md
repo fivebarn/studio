@@ -34,7 +34,19 @@ Each skill is a single `SKILL.md` file you can read in a couple of minutes befor
 3. Make sure the skill is switched on. Claude will use it automatically when a request matches, or you can ask for it by name.
 
 ### Claude Code
-Copy the skill's folder into your skills directory:
+Add this repo as a plugin marketplace, then install one skill or all of them:
+
+```bash
+/plugin marketplace add fivebarn/studio
+
+# one skill (any name from the table above)
+/plugin install inbox-triage@fivebarn-studio
+
+# or all 17
+/plugin install all-skills@fivebarn-studio
+```
+
+Or copy a skill's folder into your skills directory by hand:
 
 ```bash
 # for all your projects
