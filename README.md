@@ -10,7 +10,7 @@ Each skill is a single `SKILL.md` file you can read in a couple of minutes befor
 |---|---|---|
 | Inbox & admin | [inbox-triage](skills/inbox-triage/SKILL.md) | Clears a backlog by sender, sorts the rest, and drafts replies in your voice |
 | | [email-action-items](skills/email-action-items/SKILL.md) | Pulls to-dos (supply lists, permission slips, RSVPs) out of email into one checklist |
-| Shopping & money | [cart-builder](skills/cart-builder/SKILL.md) | Turns a list into an online cart, stopping before checkout |
+| Shopping & money | [cart-builder](skills/cart-builder/SKILL.md) | Turns a list, photo, recipes, or past order into the best-priced cart, stopping before checkout |
 | | [subscription-saver](skills/subscription-saver/SKILL.md) | Finds every recurring charge, hunts for better deals, and cancels on approval |
 | | [price-drop-tracker](skills/price-drop-tracker/SKILL.md) | Catches price drops, return deadlines, and refunds still owed |
 | Travel & going out | [flight-delay-helper](skills/flight-delay-helper/SKILL.md) | Rebooking options and what the airline owes you when a flight goes wrong |
