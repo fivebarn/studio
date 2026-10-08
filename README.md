@@ -24,7 +24,7 @@ Each skill is a single `SKILL.md` file you can read in a couple of minutes befor
 | | [folder-tidy](skills/folder-tidy/SKILL.md) | Organizes a messy folder into your own system, renames vague files, never deletes anything |
 | Creator & business | [brand-deal-tracker](skills/brand-deal-tracker/SKILL.md) | Tracks brand deals from email and DMs, prices them from your insights, and chases payment |
 | | [hiring-assistant](skills/hiring-assistant/SKILL.md) | From job post to offer: fair screening, an applicant tracker, interviews, and candidate emails |
-| | [event-ticketing](skills/event-ticketing/SKILL.md) | Ticket platforms, pricing tiers, event page, and launch checklist |
+| | [event-ticketing](skills/event-ticketing/SKILL.md) | Sets up ticket sales, promotes the event, tracks sales against goal, and handles follow-up |
 
 ## Install
 
