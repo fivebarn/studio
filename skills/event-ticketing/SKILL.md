@@ -7,11 +7,6 @@ description: Set up ticket sales for an event — compare ticketing platforms an
 
 Get an event ready to sell tickets, with the user approving every public step.
 
-## Ground rules
-- Ask before publishing an event page, opening sales, or announcing anything. Show exactly what will go live.
-- Never create accounts or enter passwords, bank, or tax details. The user does those steps.
-- Look up platform fees and features; they change. Say where the numbers came from.
-
 ## Steps
 1. **Gather the basics:** event name, date and time, venue or online, capacity, audience, budget, and goals (revenue, filling the room, a fundraiser).
 2. **Compare 2–3 ticketing options** that fit (for example, a general ticketing platform, the venue's system, or a simple payment link). Show the per-ticket fees, who pays them, payout timing, and features that matter (check-in, discount codes, refunds).
