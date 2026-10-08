@@ -8,7 +8,7 @@ Each skill is a single `SKILL.md` file you can read in a couple of minutes befor
 
 | Area | Skill | What it does |
 |---|---|---|
-| Inbox & admin | [inbox-triage](skills/inbox-triage/SKILL.md) | Sorts an overflowing inbox and drafts replies for approval |
+| Inbox & admin | [inbox-triage](skills/inbox-triage/SKILL.md) | Clears a backlog by sender, sorts the rest, and drafts replies in your voice |
 | | [email-action-items](skills/email-action-items/SKILL.md) | Pulls to-dos (supply lists, permission slips, RSVPs) out of email into one checklist |
 | Shopping & money | [cart-builder](skills/cart-builder/SKILL.md) | Turns a list into an online cart, stopping before checkout |
 | | [subscription-saver](skills/subscription-saver/SKILL.md) | Finds recurring charges and ranks what to cancel or downgrade |
