@@ -1,0 +1,22 @@
+{
+  "name": "fivebarn-life-admin",
+  "displayName": "Five Barn Life Admin",
+  "version": "1.0.0",
+  "description": "17 skills that handle everyday life admin: inbox triage, school and activity to-dos, shopping carts, subscription savings, price drops and refunds, flight delays, trip planning, reservations, a morning briefing, calendar checks, goal planning, training plans, folder cleanup, brand deals, hiring, and event ticketing. Every skill asks before it sends, buys, books, or submits anything.",
+  "author": {
+    "name": "Five Barn Studio",
+    "url": "https://github.com/fivebarn"
+  },
+  "homepage": "https://github.com/fivebarn/studio",
+  "repository": "https://github.com/fivebarn/studio",
+  "license": "MIT",
+  "keywords": [
+    "life-admin",
+    "productivity",
+    "inbox",
+    "shopping",
+    "travel",
+    "calendar",
+    "personal-assistant"
+  ]
+}

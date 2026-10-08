@@ -43,7 +43,7 @@ Add this repo as a plugin marketplace, then install one skill or all of them:
 /plugin install inbox-triage@fivebarn-studio
 
 # or all 17
-/plugin install all-skills@fivebarn-studio
+/plugin install fivebarn-life-admin@fivebarn-studio
 ```
 
 Or copy a skill's folder into your skills directory by hand:
