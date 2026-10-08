@@ -49,6 +49,10 @@ Most skills work best with the matching connections turned on in Claude (email, 
 
 Found a problem? Please [open an issue](../../issues).
 
+## Support
+
+These skills are free to use with no obligation. To support us, tips are welcome at [buymeacoffee.com/fivebarn](https://buymeacoffee.com/fivebarn) or [venmo.com/u/fivebarn](https://venmo.com/u/fivebarn).
+
 ## License
 
 [MIT](LICENSE)
