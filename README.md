@@ -14,7 +14,7 @@ Each skill is a single `SKILL.md` file you can read in a couple of minutes befor
 | | [subscription-saver](skills/subscription-saver/SKILL.md) | Finds every recurring charge, hunts for better deals, and cancels on approval |
 | | [price-drop-tracker](skills/price-drop-tracker/SKILL.md) | Catches price drops and refunds owed, files claims on approval, and keeps watching weekly |
 | Travel & going out | [flight-delay-helper](skills/flight-delay-helper/SKILL.md) | Watches your flights, rebooks when things go wrong, fixes the rest of the trip, and files claims |
-| | [trip-planner](skills/trip-planner/SKILL.md) | Day-by-day itinerary, booking checklist, budget, and packing list |
+| | [trip-planner](skills/trip-planner/SKILL.md) | Itinerary built around your bookings and saved spots, booked on approval, with pre-trip check-ins |
 | | [saved-posts-organizer](skills/saved-posts-organizer/SKILL.md) | Turns saved posts into lists, a spreadsheet, and a map, then books, plans, or shops from them |
 | | [reservation-booker](skills/reservation-booker/SKILL.md) | Books dinner or movie seats on approval, watches sold-out times, and handles the follow-up |
 | Briefing & scheduling | [morning-briefing](skills/morning-briefing/SKILL.md) | A 5-line daily brief: schedule, weather, key emails, commute, birthdays, news (text or audio) |
